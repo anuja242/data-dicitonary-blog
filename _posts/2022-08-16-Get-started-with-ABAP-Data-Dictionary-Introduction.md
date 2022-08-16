@@ -4,6 +4,7 @@ In this blog post we will start learning Data Dictionary part.
 
 Data dictionary is the central repository where we can create and maintained data definition (Metadata). Metadata is data about data.
 Data dictionary store data definition of user define types (Data Elements, Structures and Table Type). Also, we can create and maintained the database objects like tables, views and index.
+
 **User Define Types**
 
 **1.	Data Elements**
